@@ -481,6 +481,13 @@
       "hasLikedUser": false
     }
   ],
-  "swipes": [],
+  "swipes": [
+    {
+      "userId": "user_me",
+      "profileId": "prof-1",
+      "action": "pass",
+      "timestamp": "2026-11-17T15:32:45.954Z"
+    }
+  ],
   "matches": []
 }
