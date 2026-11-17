@@ -1,0 +1,486 @@
+{
+  "profiles": [
+    {
+      "id": "prof-1",
+      "name": "Ananya Sharma",
+      "age": 21,
+      "photo": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=800&q=80",
+      "bio": "Architecture major at IIT Roorkee. Coffee snob, amateur film photographer, and always hunting for thrifted jackets.",
+      "location": "IIT Roorkee",
+      "interests": [
+        "Architecture",
+        "Film Photography",
+        "Filter Coffee",
+        "Indie Rock"
+      ],
+      "hasLikedUser": true
+    },
+    {
+      "id": "prof-2",
+      "name": "Kabir Mehta",
+      "age": 22,
+      "photo": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=800&q=80",
+      "bio": "CS undergrad by day, beatmaker on weekends. If you like sunset cycling and synthesizer jams, we will get along.",
+      "location": "BITS Pilani, Goa",
+      "interests": [
+        "Music Production",
+        "Cycling",
+        "Sci-Fi",
+        "Cats"
+      ],
+      "hasLikedUser": true
+    },
+    {
+      "id": "prof-3",
+      "name": "Rhea Sen",
+      "age": 20,
+      "photo": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=800&q=80",
+      "bio": "Literature & Psychology at St. Xavier's. Believer in long walks with zero agenda and buying books I won't finish.",
+      "location": "St. Xavier's College, Mumbai",
+      "interests": [
+        "Classic Lit",
+        "Matcha",
+        "Museums",
+        "Poetry"
+      ],
+      "hasLikedUser": false
+    },
+    {
+      "id": "prof-4",
+      "name": "Aarav Patel",
+      "age": 23,
+      "photo": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=800&q=80",
+      "bio": "Fintech analyst & weekend boulderer. Looking for someone to debate whether pineapple belongs on sourdough.",
+      "location": "Bengaluru",
+      "interests": [
+        "Bouldering",
+        "Sourdough",
+        "Podcasts",
+        "Formula 1"
+      ],
+      "hasLikedUser": true
+    },
+    {
+      "id": "prof-5",
+      "name": "Tara Deshmukh",
+      "age": 21,
+      "photo": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=800&q=80",
+      "bio": "Design student at NID. Obsessed with typography, matcha lattes, and 90s anime soundtracks.",
+      "location": "NID Ahmedabad",
+      "interests": [
+        "Graphic Design",
+        "Anime",
+        "Pottery",
+        "Thrifting"
+      ],
+      "hasLikedUser": false
+    },
+    {
+      "id": "prof-6",
+      "name": "Dev Malhotra",
+      "age": 22,
+      "photo": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&w=800&q=80",
+      "bio": "Economics @ SRCC. Probably talking about behavioral economics or finding the best butter chicken in Delhi.",
+      "location": "SRCC, Delhi University",
+      "interests": [
+        "Debating",
+        "Culinary Arts",
+        "Chess",
+        "Vinyl Records"
+      ],
+      "hasLikedUser": true
+    },
+    {
+      "id": "prof-7",
+      "name": "Ishita Roy",
+      "age": 21,
+      "photo": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=800&q=80",
+      "bio": "Media & Journalism at Ashoka Univ. Podcaster, amateur baker, and full-time dog enthusiast.",
+      "location": "Ashoka University",
+      "interests": [
+        "Journalism",
+        "Baking",
+        "Golden Retrievers",
+        "True Crime"
+      ],
+      "hasLikedUser": false
+    },
+    {
+      "id": "prof-8",
+      "name": "Siddharth Nair",
+      "age": 24,
+      "photo": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=800&q=80",
+      "bio": "Aerospace engineer & stargazing nerd. Can calculate rocket trajectories but still can't parallel park.",
+      "location": "IISc Bengaluru",
+      "interests": [
+        "Astronomy",
+        "Board Games",
+        "Running",
+        "Acoustic Guitar"
+      ],
+      "hasLikedUser": true
+    },
+    {
+      "id": "prof-9",
+      "name": "Meera Kapoor",
+      "age": 20,
+      "photo": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?auto=format&fit=crop&w=800&q=80",
+      "bio": "Law student with a theatre background. Sarcasm is my cardio. Let's get cold brew and judge courtroom dramas.",
+      "location": "NLSIU Bengaluru",
+      "interests": [
+        "Theatre",
+        "Mock Trials",
+        "Cold Brew",
+        "Standup Comedy"
+      ],
+      "hasLikedUser": true
+    },
+    {
+      "id": "prof-10",
+      "name": "Arjun Verma",
+      "age": 23,
+      "photo": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?auto=format&fit=crop&w=800&q=80",
+      "bio": "Product designer & road trip addict. Give me Spotify AUX privileges and you will not be disappointed.",
+      "location": "Pune",
+      "interests": [
+        "UI/UX",
+        "Road Trips",
+        "Electronic Music",
+        "Sneakers"
+      ],
+      "hasLikedUser": false
+    },
+    {
+      "id": "prof-11",
+      "name": "Zoya Qureshi",
+      "age": 21,
+      "photo": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=800&q=80",
+      "bio": "Biotech major fascinated by marine biology. Passionate scuba diver and passionate croissant critic.",
+      "location": "St. Stephen's, Delhi",
+      "interests": [
+        "Marine Biology",
+        "Scuba Diving",
+        "Croissants",
+        "Modern Art"
+      ],
+      "hasLikedUser": true
+    },
+    {
+      "id": "prof-12",
+      "name": "Rohan Kulkarni",
+      "age": 22,
+      "photo": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=800&q=80",
+      "bio": "Mechanical engineering student building electric go-karts. Big fan of retro arcades and spicy street food.",
+      "location": "COEP Pune",
+      "interests": [
+        "Automotive",
+        "Arcade Games",
+        "Street Food",
+        "Rock Climbing"
+      ],
+      "hasLikedUser": false
+    },
+    {
+      "id": "prof-13",
+      "name": "Diya Banerjee",
+      "age": 22,
+      "photo": "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?auto=format&fit=crop&w=800&q=80",
+      "bio": "English honors at Jadavpur Univ. I write short stories, collect vintage postcards, and make killer chai.",
+      "location": "Jadavpur University, Kolkata",
+      "interests": [
+        "Creative Writing",
+        "Vintage Postcards",
+        "Masala Chai",
+        "Cinema"
+      ],
+      "hasLikedUser": true
+    },
+    {
+      "id": "prof-14",
+      "name": "Vivaan Singhal",
+      "age": 23,
+      "photo": "https://images.unsplash.com/photo-1501196354995-cbb51c65aaea?auto=format&fit=crop&w=800&q=80",
+      "bio": "Full-stack developer who loves hiking trails. Currently trying to beat my 10k running personal best.",
+      "location": "Hyderabad",
+      "interests": [
+        "Marathon",
+        "Open Source",
+        "Trekking",
+        "Coffee Roasting"
+      ],
+      "hasLikedUser": false
+    },
+    {
+      "id": "prof-15",
+      "name": "Kavya Menon",
+      "age": 21,
+      "photo": "https://images.unsplash.com/photo-1517365830460-955ce3ccd263?auto=format&fit=crop&w=800&q=80",
+      "bio": "Classical dancer & data science geek. Trying to bridge Indian classical art with generative algorithms.",
+      "location": "IIT Madras",
+      "interests": [
+        "Bharatanatyam",
+        "AI Ethics",
+        "Plant Parent",
+        "Sushi"
+      ],
+      "hasLikedUser": true
+    },
+    {
+      "id": "prof-16",
+      "name": "Neil D'Souza",
+      "age": 22,
+      "photo": "https://images.unsplash.com/photo-1463453091185-61582044d556?auto=format&fit=crop&w=800&q=80",
+      "bio": "Hospitality & culinary arts at IHM Goa. Life goal: open a seaside bakery with sourdough and jazz on vinyl.",
+      "location": "IHM Goa",
+      "interests": [
+        "Pastry Baking",
+        "Jazz",
+        "Surfing",
+        "Beach Volleyball"
+      ],
+      "hasLikedUser": false
+    },
+    {
+      "id": "prof-17",
+      "name": "Nandini Iyer",
+      "age": 20,
+      "photo": "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df?auto=format&fit=crop&w=800&q=80",
+      "bio": "Math & statistics nerd at Miranda House. Tell me your favorite paradox and let's dissect it over bubble tea.",
+      "location": "Miranda House, Delhi",
+      "interests": [
+        "Probability",
+        "Boba Tea",
+        "K-Dramas",
+        "Badminton"
+      ],
+      "hasLikedUser": true
+    },
+    {
+      "id": "prof-18",
+      "name": "Yashvardhan Rao",
+      "age": 24,
+      "photo": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?auto=format&fit=crop&w=800&q=80",
+      "bio": "Civil engineer turned 3D environment artist. Can spend 3 hours explaining why lighting in Dune 2 was cinematic art.",
+      "location": "Mumbai",
+      "interests": [
+        "Cinematography",
+        "Unreal Engine",
+        "Sci-Fi Novels",
+        "Tennis"
+      ],
+      "hasLikedUser": false
+    },
+    {
+      "id": "prof-19",
+      "name": "Sanya Chawla",
+      "age": 21,
+      "photo": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?auto=format&fit=crop&w=800&q=80",
+      "bio": "Fashion management student at NIFT Delhi. Vintage enthusiast, sneakerhead, and weekend pasta maker.",
+      "location": "NIFT Delhi",
+      "interests": [
+        "Fashion Styling",
+        "Sneakers",
+        "Italian Cooking",
+        "Concerts"
+      ],
+      "hasLikedUser": true
+    },
+    {
+      "id": "prof-20",
+      "name": "Aditya Joshi",
+      "age": 23,
+      "photo": "https://images.unsplash.com/photo-1504257432389-52343af06ae3?auto=format&fit=crop&w=800&q=80",
+      "bio": "Environmental science researcher. If you want to spot migratory birds in wetlands at 6 AM, hit me up.",
+      "location": "Pune University",
+      "interests": [
+        "Bird Watching",
+        "Wildlife Conservation",
+        "Kayaking",
+        "Tea Tasting"
+      ],
+      "hasLikedUser": false
+    },
+    {
+      "id": "prof-21",
+      "name": "Pooja Hegde",
+      "age": 22,
+      "photo": "https://images.unsplash.com/photo-1534751516642-a171edd25218?auto=format&fit=crop&w=800&q=80",
+      "bio": "Management student at Christ University. Organizing student fests, singing acoustic covers, and eating dim sums.",
+      "location": "Christ University, Bengaluru",
+      "interests": [
+        "Live Music",
+        "Event Hosting",
+        "Dim Sums",
+        "Pilates"
+      ],
+      "hasLikedUser": true
+    },
+    {
+      "id": "prof-22",
+      "name": "Karan Oberoi",
+      "age": 22,
+      "photo": "https://images.unsplash.com/photo-1530268729831-4b0b9e170218?auto=format&fit=crop&w=800&q=80",
+      "bio": "Finance student who spends too much time on chess.com. Looking for an opponent or a coffee companion.",
+      "location": "Narsee Monjee, Mumbai",
+      "interests": [
+        "Chess",
+        "Economics",
+        "Espresso",
+        "Football"
+      ],
+      "hasLikedUser": false
+    },
+    {
+      "id": "prof-23",
+      "name": "Alia Merchant",
+      "age": 20,
+      "photo": "https://images.unsplash.com/photo-1524250502761-1ac6f2e30d43?auto=format&fit=crop&w=800&q=80",
+      "bio": "Sociology & film studies at Lady Shri Ram College. Fluent in movie trivia, indie pop, and late-night museum strolls.",
+      "location": "LSR, Delhi",
+      "interests": [
+        "World Cinema",
+        "Indie Pop",
+        "Painting",
+        "Museums"
+      ],
+      "hasLikedUser": true
+    },
+    {
+      "id": "prof-24",
+      "name": "Harsh Vardhan",
+      "age": 24,
+      "photo": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=800&q=80",
+      "bio": "Sports medicine intern. Passionate about strength training, sports podcasts, and making healthy pizzas.",
+      "location": "KMC Manipal",
+      "interests": [
+        "Calisthenics",
+        "Fitness",
+        "Nutrition",
+        "Podcasts"
+      ],
+      "hasLikedUser": false
+    },
+    {
+      "id": "prof-25",
+      "name": "Tanvi Saxena",
+      "age": 21,
+      "photo": "https://images.unsplash.com/photo-1502685104226-ee32379fefbe?auto=format&fit=crop&w=800&q=80",
+      "bio": "Chemistry honors at Hansraj. Will explain reaction mechanisms using bakery metaphors. Dog mom to an indie puppy.",
+      "location": "Hansraj College, Delhi",
+      "interests": [
+        "Chemistry",
+        "Baking",
+        "Animal Welfare",
+        "Board Games"
+      ],
+      "hasLikedUser": true
+    },
+    {
+      "id": "prof-26",
+      "name": "Pranav Pillai",
+      "age": 23,
+      "photo": "https://images.unsplash.com/photo-1496345875659-11f7dd282d1d?auto=format&fit=crop&w=800&q=80",
+      "bio": "Naval architecture student. Loves kayaking in backwaters, playing classical violin, and brewing pour-overs.",
+      "location": "Cochin University (CUSAT)",
+      "interests": [
+        "Violin",
+        "Kayaking",
+        "Coffee Brewing",
+        "Sailing"
+      ],
+      "hasLikedUser": false
+    },
+    {
+      "id": "prof-27",
+      "name": "Simran Bhatia",
+      "age": 22,
+      "photo": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=800&q=80",
+      "bio": "Marketing strategist & avid reader. Believes good banter is the ultimate love language. Tell me your most controversial take.",
+      "location": "Chandigarh",
+      "interests": [
+        "Banter",
+        "Book Clubs",
+        "Travel",
+        "Astrology (ironically)"
+      ],
+      "hasLikedUser": true
+    },
+    {
+      "id": "prof-28",
+      "name": "Reyansh Gupta",
+      "age": 22,
+      "photo": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=800&q=80",
+      "bio": "Robotics student building autonomous drones. When not debugging hardware, I'm jamming on my bass guitar.",
+      "location": "IIT Delhi",
+      "interests": [
+        "Robotics",
+        "Bass Guitar",
+        "Hackathons",
+        "Camping"
+      ],
+      "hasLikedUser": false
+    },
+    {
+      "id": "prof-29",
+      "name": "Avani Patel",
+      "age": 21,
+      "photo": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=800&q=80",
+      "bio": "Visual arts student exploring printmaking and zines. Tea over coffee any day. Let's explore indie bookstores.",
+      "location": "MSU Baroda",
+      "interests": [
+        "Printmaking",
+        "Zines",
+        "Herbal Tea",
+        "Thrifting"
+      ],
+      "hasLikedUser": true
+    },
+    {
+      "id": "prof-30",
+      "name": "Madhav Tandon",
+      "age": 23,
+      "photo": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?auto=format&fit=crop&w=800&q=80",
+      "bio": "Urban planning enthusiast. I rate cities based on walkable sidewalks, night cafes, and street cats.",
+      "location": "CEPT University, Ahmedabad",
+      "interests": [
+        "Urban Planning",
+        "Cycling",
+        "Street Cats",
+        "Jazz Cafes"
+      ],
+      "hasLikedUser": false
+    },
+    {
+      "id": "prof-31",
+      "name": "Natasha Roy",
+      "age": 22,
+      "photo": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=800&q=80",
+      "bio": "Psychology student & pottery apprentice. Passionate about human behavior, ceramics, and rainy afternoon lo-fi beats.",
+      "location": "Kolkata",
+      "interests": [
+        "Pottery",
+        "Psychology",
+        "Lo-Fi Music",
+        "Houseplants"
+      ],
+      "hasLikedUser": true
+    },
+    {
+      "id": "prof-32",
+      "name": "Rishi Kapoor",
+      "age": 23,
+      "photo": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&w=800&q=80",
+      "bio": "Game developer & pixel artist. Creating indie retro games. Always up for arcade tournaments or street food walks.",
+      "location": "Hyderabad",
+      "interests": [
+        "Game Dev",
+        "Pixel Art",
+        "Retro Consoles",
+        "Biryani"
+      ],
+      "hasLikedUser": false
+    }
+  ],
+  "swipes": [],
+  "matches": []
+}
